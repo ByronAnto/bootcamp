@@ -40,19 +40,26 @@
         <mxCell id="nzkwwnV7uFEQVJuX7ikb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nzkwwnV7uFEQVJuX7ikb-20" target="nzkwwnV7uFEQVJuX7ikb-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nzkwwnV7uFEQVJuX7ikb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nzkwwnV7uFEQVJuX7ikb-23" target="nzkwwnV7uFEQVJuX7ikb-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nzkwwnV7uFEQVJuX7ikb-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/PIM.svg;" vertex="1" parent="1">
           <mxGeometry x="410" y="333.99" width="70" height="79.33" as="geometry" />
         </mxCell>
         <mxCell id="nzkwwnV7uFEQVJuX7ikb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.339;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nzkwwnV7uFEQVJuX7ikb-21" target="nzkwwnV7uFEQVJuX7ikb-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nzkwwnV7uFEQVJuX7ikb-26" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
+        <mxCell id="nzkwwnV7uFEQVJuX7ikb-26" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Bienestar Social&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="543" y="170" width="82.5" height="94.5" as="geometry" />
         </mxCell>
-        <mxCell id="nzkwwnV7uFEQVJuX7ikb-27" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
+        <mxCell id="nzkwwnV7uFEQVJuX7ikb-27" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Colaborador&lt;/span&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="543" y="326.41" width="82.5" height="94.5" as="geometry" />
         </mxCell>
-        <mxCell id="nzkwwnV7uFEQVJuX7ikb-28" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
+        <mxCell id="nzkwwnV7uFEQVJuX7ikb-28" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Gerecial&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="543" y="520" width="82.5" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="nzkwwnV7uFEQVJuX7ikb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nzkwwnV7uFEQVJuX7ikb-23" target="nzkwwnV7uFEQVJuX7ikb-26">
@@ -65,10 +72,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nzkwwnV7uFEQVJuX7ikb-32" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="70" width="51" height="68" as="geometry" />
+          <mxGeometry x="1060" y="26.3" width="51" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="nzkwwnV7uFEQVJuX7ikb-33" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
-          <mxGeometry x="850" y="60" width="62.8" height="68" as="geometry" />
+        <mxCell id="nzkwwnV7uFEQVJuX7ikb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nzkwwnV7uFEQVJuX7ikb-34" target="nzkwwnV7uFEQVJuX7ikb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzkwwnV7uFEQVJuX7ikb-34" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="850" y="22.61" width="61.82" height="75.39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
